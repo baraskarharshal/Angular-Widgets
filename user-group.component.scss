@@ -1,0 +1,22 @@
+.w-100{
+    width: 100%;
+    min-height: 30px;
+}
+
+.flexCol{
+    flex-direction:column;
+}
+
+ng-select{
+    font-size: 13px;
+}
+
+.ng-select .ng-select-container{
+    border-radius: 0;
+    min-height: 30px;
+    border-color: #A9A9A9;
+}
+
+.ng-select.ng-select-single .ng-select-container{
+    height: 30px;
+}
